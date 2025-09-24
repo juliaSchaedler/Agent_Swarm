@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtualenv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+*.out
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage / Pytest
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+
+# ChromaDB local data
+chroma/
+*.db
+*.sqlite
+*.parquet
+
+# Docker
+*.pid
+*.seed
+*.pid.lock

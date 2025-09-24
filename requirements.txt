@@ -1,0 +1,17 @@
+
+fastapi
+uvicorn[standard]
+httpx
+requests
+beautifulsoup4
+sentence-transformers
+chromadb>=0.5.0
+faiss-cpu
+langchain
+pydantic
+sqlalchemy
+pytest
+pytest-asyncio
+transformers
+torch
+accelerate
